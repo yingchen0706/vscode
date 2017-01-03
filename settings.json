@@ -1,0 +1,22 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "http.proxy": "http://adc-proxy.oracle.com:80",
+    "editor.fontFamily": "",
+    "editor.fontSize": 18,
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "boundary",
+    "editor.renderControlCharacters": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        80
+    ],
+    "files.trimTrailingWhitespace": true,
+    "vim.insertModeKeyBindings": [{
+        "before": ["q", "q"],
+        "after": ["<Esc>"]
+    }]
+,
+"editor.cursorStyle": "block"
+}
